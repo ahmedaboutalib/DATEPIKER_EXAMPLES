@@ -6,7 +6,6 @@ import reportWebVitals from './reportWebVitals';
 
 
 
-const store=legacy_createStore(reducer);
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
